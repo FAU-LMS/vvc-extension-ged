@@ -47,7 +47,7 @@ bin/EncoderAppStatic
 -q 37
 --GED=1
 --GEDFlavor=regensky_geo_global
---Projection=2
+--Projection=0
 --Epipole=-1,-1,1.0,0.0,0.0
 ```
 
